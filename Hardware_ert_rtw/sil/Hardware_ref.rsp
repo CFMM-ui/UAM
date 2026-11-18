@@ -1,0 +1,5 @@
+hostobj/Hardware.obj
+hostobj/Hardware_data.obj
+hostobj/rtGetInf.obj
+hostobj/rtGetNaN.obj
+hostobj/rt_nonfinite.obj

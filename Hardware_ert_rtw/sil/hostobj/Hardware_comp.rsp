@@ -1,0 +1,7 @@
+-I"C:/Users/Carlos Fabian/Documents/MATLAB/UAM_Hexa_PID"
+-I"C:/Users/Carlos Fabian/Documents/MATLAB/UAM_Hexa_PID/Hardware_ert_rtw"
+-I"C:/Program Files/MATLAB/R2026a/extern/include"
+-I"C:/Program Files/MATLAB/R2026a/simulink/include"
+-I"C:/Program Files/MATLAB/R2026a/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2026a/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2026a/rtw/c/ert"
